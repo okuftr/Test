@@ -252,3 +252,7 @@ p{
     align-items: flex-start;
 	flex-wrap: wrap;
 }
+
+img{
+	width: 100%;
+}
